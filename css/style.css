@@ -446,7 +446,7 @@ section {
 }
 @media (max-width:920){
     .about{
-        grid-template-columns: 1fr;
+        grid-template-columns: 2fr;
 
     }
     .about-img img{
